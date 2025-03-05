@@ -1,12 +1,4 @@
-# Skype-for-Discord
-Skype Theme for Discord [v1.0.0]
+# Skype-for-Discord-Updated
+Skype Theme for Discord [v1.0.1]
 
-[FR]
-Merci d'avoir choisis le thème Skype pour Discord ! Le projet de créer ce thème me tenait à coeur car j'ai grandis avec Skype et j'adorraaisss son interface !
-Bah ducoup je vous la propose ici, via BetterDiscord, hâte de refaire d'autre thèmes !
-Cordialement, BruOnline.
-
-[EN]
-Thank you for choosing the Skype theme for Discord! The project to create this theme was close to my heart because I grew up with Skype and I loved its interface!
-Well, I propose it here, via BetterDiscord, can't wait to redo other themes!
-Sincerely, BruOnline.
+This theme is meant to recreate the Skype layout for Discord. Skype is going away soon and I felt like something had to replace it. What better than Discord? But, it has to look the part. That's where this comes in. Just install the theme with BetterDiscord, Vencord, or whatever else and you got it.
